@@ -7,5 +7,5 @@ I have a passion for network engineering, software engineering, as well as AI / 
 - :rocket: Personal website hosted @ [danielboctor.com](https://danielboctor.com)
 - :brain: Undergraduate Research Assistant @ [SAIN Lab](https://www.sain.ca/authors/daniel-boctor)
 
-- :link: If you would like to connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/daniel-boctor)
-- :envelope: If you would like to chat, shoot me an email: daniel.boctor@ontariotechu.net
+- :speech_balloon: If you would like to connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/daniel-boctor)
+- :mailbox_with_no_mail: If you would like to chat, shoot me an email: daniel.boctor@ontariotechu.net
