@@ -2,7 +2,7 @@
 
 My name is Daniel Boctor, and I'm currently a 2nd year undergraduate student pursuing a degree in Networking & IT Security at Ontario Tech University.
 
-I have a passion for network engineering, software engineering, as well as AI / neural networks.
+I have a passion for network engineering, software engineering, as well as AI and neural networks.
 
 - :rocket: Personal website hosted @ [danielboctor.com](https://danielboctor.com)
 - :brain: Undergraduate Research Assistant @ [SAIN Lab](https://www.sain.ca/authors/daniel-boctor)
