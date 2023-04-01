@@ -4,6 +4,7 @@ My name is Daniel Boctor, and I'm currently a 3rd year undergraduate student pur
 
 - :heavy_dollar_sign: Creator of [norbertsgambit.net](https://norbertsgambit.net)
 - :green_heart: Software Engineer Intern @ [Cisco Meraki](https://meraki.cisco.com)
+- :man_student: Teaching Assistant @ [Ontario Tech University](https://ontariotechu.ca/)
 - :rocket: Personal website hosted @ [danielboctor.com](https://danielboctor.com)
 - :brain: Undergraduate Research Assistant @ [SAIN Lab](https://www.sain.ca/authors/daniel-boctor)
 - :speech_balloon: If you would like to connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/daniel-boctor)
